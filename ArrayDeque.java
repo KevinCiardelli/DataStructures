@@ -56,8 +56,6 @@ public class ArrayDeque<T> implements Deque<T>
 		size++;
 	}
 
-	/* copy from queue */
-
 	public T removeFirst()
 	{
 		if(size==0)

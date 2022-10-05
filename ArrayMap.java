@@ -3,7 +3,7 @@
  *
  * data stored by key, with no duplicate keys allowed
  *
- * --your name--
+ * Kevin Ciardelli
  */
 
 import java.util.Iterator;
